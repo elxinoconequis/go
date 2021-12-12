@@ -1,5 +1,7 @@
 _created & maintained by [@clarecorthell](http://bit.ly/clarecorthelltwitter), founding partner of [Luminant Data Science Consulting](http://bit.ly/luminantdata)_
 
+Forkin 12 Diciembre 2021 por Joaquín Fernando Ortega Silva
+
 ## The Open-Source Data Science Masters
 
 The open-source curriculum for learning Data Science. Foundational in both theory and technologies, the OSDSM breaks down the core competencies necessary to making use of data.
